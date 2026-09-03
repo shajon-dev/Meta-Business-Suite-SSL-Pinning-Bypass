@@ -1,6 +1,6 @@
 # Security Policy & Educational Disclaimer
 
-This document outlines the security policies, educational disclaimers, and reporting procedures for the **Meta-Business-Suit-SSL-Pinning-Bypass** repository.
+This document outlines the security policies, educational disclaimers, and reporting procedures for the **Meta-Business-Suite-SSL-Pinning-Bypass** repository.
 
 ---
 

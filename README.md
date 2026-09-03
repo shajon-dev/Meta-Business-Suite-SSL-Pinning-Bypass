@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🔐 Meta-Business-Suit-SSL-Pinning-Bypass
-📡 Capture and inspect Meta Business Suite's network traffic on Android — no root required.
+# 🔐 Meta-Business-Suite-SSL-Pinning-Bypass
+📡 Capture and inspect Meta Business Suitee's network traffic on Android — no root required.
 
 > 💡 **GOOD NEWS:** You do **not** need a rooted device to use this! It works flawlessly on **non-rooted** devices and has been successfully tested using **Mitmproxy** in a non-root environment.
 
@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **567.0.0.32.104**
+- App version: **569.0.0.29.105**
 - Architecture: **arm64-v8a, armeabi-v7a**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
@@ -31,7 +31,7 @@
 6. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
 7. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
 8. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
-9. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
+9. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suite-SSL-Pinning-Bypass)
 10. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
 11. [TikTok Android](https://github.com/shajon-dev/TikTok-SSL-Pinning-Bypass)
 
@@ -57,7 +57,7 @@
   <tbody>
     <tr>
       <td rowspan="3" align="center"><code>com.facebook.pages.app</code></td>
-      <td align="center">567.0.0.32.104</td>
+      <td align="center">569.0.0.29.105</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td colspan="2" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
@@ -66,13 +66,13 @@
       <td align="center">510.0.0.44.108</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
-      <td colspan="2" align="center"><a href="https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass/releases">Download Link</a></td>
+      <td colspan="2" align="center"><a href="https://github.com/shajon-dev/Meta-Business-Suite-SSL-Pinning-Bypass/releases">Download Link</a></td>
     </tr>
     <tr>
       <td align="center">500.0.0.68.109</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
-      <td colspan="2" align="center"><a href="https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass/releases">Download Link</a></td>
+      <td colspan="2" align="center"><a href="https://github.com/shajon-dev/Meta-Business-Suite-SSL-Pinning-Bypass/releases">Download Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -103,7 +103,7 @@
 ---
 
 ## 🔧 Setup Process
- 1. ⬇️ **Download the patched APK** from the [GitHub Releases](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass/releases) page, choosing the file that matches your device architecture (`arm64-v8a` / `armeabi-v7a` / `x86` / `x86_64`).
+ 1. ⬇️ **Download the patched APK** from the [GitHub Releases](https://github.com/shajon-dev/Meta-Business-Suite-SSL-Pinning-Bypass/releases) page, choosing the file that matches your device architecture (`arm64-v8a` / `armeabi-v7a` / `x86` / `x86_64`).
  2. 📲 **Install the APK** on your Android device (uninstall the original app first if it is already installed).
  3. 🔄 Configure a proxy and use [Mitmproxy](https://mitmproxy.org/) or [Reqable](https://reqable.com/) to capture and monitor Business Suite network traffic.
  4. ✅ **No root required** — this works on non-rooted devices as well.
