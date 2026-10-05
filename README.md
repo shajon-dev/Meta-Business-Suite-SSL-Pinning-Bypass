@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **569.0.0.29.105**
+- App version: **574.0.0.40.106**
 - Architecture: **arm64-v8a, armeabi-v7a**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
@@ -18,7 +18,7 @@
 ---
 
 ## 🎥 Evidence
-![Business Suite Android](assets/v567.jpg)
+![Business Suite Android](assets/v574.jpg)
 
 ---
 
@@ -57,7 +57,7 @@
   <tbody>
     <tr>
       <td rowspan="3" align="center"><code>com.facebook.pages.app</code></td>
-      <td align="center">569.0.0.29.105</td>
+      <td align="center">574.0.0.40.106</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td colspan="2" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
